@@ -1,2 +1,2 @@
 # Optimised-Codebase-
-This modified codebase that follows accessibility standards is for the marketing agency to have an optimised site for search engines.
+The project is for the marketing agent to have an optimised website that follows accessiblility standards for search engines.
